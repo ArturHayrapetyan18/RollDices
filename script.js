@@ -26,6 +26,8 @@ document.querySelector("#total").innerHTML = "Your roll is " + ( ((dieOneValue)+
 console.log(dieOneValue, dieTwoValue)
     },
     1000);
+
+    console.log(roll)
 }
 
 
